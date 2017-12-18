@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>ShiftOpen ok</h1>
+            <h1>Tutto ok! OpenShift</h1>
           </hgroup>
 
 
